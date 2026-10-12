@@ -1,0 +1,6 @@
+[
+  {"order_id":"AMZ-1042","channel":"Amazon","sale":129.00,"expected_payout":103.20,"actual_payout":103.20,"status":"settled","claim_days_left":42},
+  {"order_id":"TT-8821","channel":"TikTok Shop","sale":215.00,"expected_payout":180.60,"actual_payout":0,"status":"delivered","claim_days_left":11},
+  {"order_id":"WFS-4407","channel":"Walmart","sale":89.00,"expected_payout":74.76,"actual_payout":66.75,"status":"settled","claim_days_left":24},
+  {"order_id":"MCF-7013","channel":"Shopify via MCF","sale":349.00,"expected_payout":293.16,"actual_payout":261.74,"status":"returned","claim_days_left":6}
+]
